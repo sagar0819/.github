@@ -12,17 +12,33 @@
 
 <div class="hero">
 	<img class="avatar" src="https://raw.githubusercontent.com/sagar0819/kavsagar-portfolio/main/images/profile.jpg" alt="avatar" />
-	<div>
-		<h1>Ananda Vidya Sagar Katakam — Principal Architect (DataOps)</h1>
-		<p>Designing secure, scalable cloud &amp; data platforms. Focus areas: FinOps, platform engineering, observability, and AI-enabled DataOps.</p>
-		<div class="badges" style="margin-top:8px;">
-			<img src="https://img.shields.io/badge/Website-Portfolio-blue?logo=github" alt="portfolio" />
-			<img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin" alt="linkedin" />
-			<img src="https://img.shields.io/badge/Projects-Open%20Source-2b9348" alt="projects" />
-		</div>
-	</div>
-</div>
+	<!-- Organization profile README for sagar0819 -->
 
----
+	# Ananda Vidya Sagar Katakam 👋
 
-<em>Profile curated for concise discovery — visit the portfolio for a full resume and project details.</em>
+	![avatar](https://github.com/sagar0819.png)
+
+	> Principal Architect — DataOps
+
+	> Designing secure, scalable cloud & data platforms. Focus areas: FinOps, platform engineering, observability, and AI-enabled DataOps.
+
+	![portfolio](https://img.shields.io/badge/Website-Portfolio-blue?logo=github) ![linkedin](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin) ![projects](https://img.shields.io/badge/Projects-Open%20Source-2b9348)
+
+	---
+
+	## Quick links
+
+	- [Portfolio site](https://sagar0819.github.io/kavsagar-portfolio)
+	- [kavsagar-portfolio repo](https://github.com/sagar0819/kavsagar-portfolio)
+	- [dbx-dashboard-tf-module](https://github.com/sagar0819/dbx-dashboard-tf-module)
+	- [aws-ecs-demo-app](https://github.com/sagar0819/aws-ecs-demo-app)
+
+	## Featured projects
+
+	- Portfolio — Resume & site: https://github.com/sagar0819/kavsagar-portfolio
+	- Databricks dashboard TF module: https://github.com/sagar0819/dbx-dashboard-tf-module
+	- AWS ECS demo app: https://github.com/sagar0819/aws-ecs-demo-app
+
+	---
+
+	<em>Profile curated for concise discovery — visit the portfolio for a full resume and project details.</em>
